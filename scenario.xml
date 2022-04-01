@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<И>
+   <ИЛИ>
+     <cond sensorID="A"
+           sign="&gt;"
+           value="10">
+     </cond>
+     <cond sensorID="B"
+           sign="&lt;"
+           value="4">
+     </cond>
+   </ИЛИ>
+   <НЕ>
+     <cond sensorID="C"
+           sign="=="
+           value="5">
+     </cond>
+     </НЕ>
+</И>
